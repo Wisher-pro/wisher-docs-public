@@ -1,1 +1,10 @@
-This Privacy Policy outlines how we process your Personal Data both in connection with Wisher Pro and otherwise. The Website includes links to third-party websites, such as social networks. Clicking on those links or enabling those connections may allow the third party to collect or share data about you. We do not control these third-party websites, and we encourage you to read the privacy policy of those third-party websites.
+[
+    {
+        "title": "What is Wisher Pro?",
+        "text": "Wisher Pro is a service for publishing wishlists that can be shared via a short link like wisher.pro/abcde"
+    },
+    {
+        "title": "What is Wish?",
+        "text": "Wish is one element of your wish list. As a wish, you can indicate a product or service, as well as provide a detailed description and attach a photo."
+    }
+]

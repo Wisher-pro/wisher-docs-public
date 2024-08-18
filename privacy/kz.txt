@@ -1,1 +1,10 @@
-Бұл Құпиялық саясаты жеке деректеріңізді Wisher Pro бағдарламасына байланысты және басқа жолмен қалай өңдейтінімізді сипаттайды. Веб-сайт әлеуметтік желілер сияқты үшінші тарап веб-сайттарына сілтемелерді қамтиды. Сол сілтемелерді басу немесе сол қосылымдарды қосу үшінші тарапқа сіз туралы деректерді жинауға немесе бөлісуге мүмкіндік береді. Біз бұл үшінші тарап веб-сайттарын бақыламаймыз және сол үшінші тарап веб-сайттарының құпиялылық саясатын оқып шығуды ұсынамыз.
+[
+    {
+        "title": "What is Wisher Pro?",
+        "text": "Wisher Pro is a service for publishing wishlists that can be shared via a short link like wisher.pro/abcde"
+    },
+    {
+        "title": "What is Wish?",
+        "text": "Wish is one element of your wish list. As a wish, you can indicate a product or service, as well as provide a detailed description and attach a photo."
+    }
+]

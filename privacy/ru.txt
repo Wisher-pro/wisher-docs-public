@@ -1,1 +1,10 @@
-В этой Политике конфиденциальности описывается, как мы обрабатываем ваши Персональные данные как в связи с Wisher Pro, так и иным образом. Веб-сайт содержит ссылки на сторонние веб-сайты, такие как социальные сети. Нажатие на эти ссылки или включение этих подключений может позволить третьей стороне собирать или делиться данными о вас. Мы не контролируем эти сторонние веб-сайты и рекомендуем вам ознакомиться с политикой конфиденциальности этих сторонних веб-сайтов.
+[
+    {
+        "title": "What is Wisher Pro?",
+        "text": "Wisher Pro is a service for publishing wishlists that can be shared via a short link like wisher.pro/abcde"
+    },
+    {
+        "title": "What is Wish?",
+        "text": "Wish is one element of your wish list. As a wish, you can indicate a product or service, as well as provide a detailed description and attach a photo."
+    }
+]
