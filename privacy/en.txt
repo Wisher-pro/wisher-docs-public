@@ -1,6 +1,6 @@
 [
     {
-        "title": "Wisher Pro’S PRIVACY POLICY",
+        "title": "Wisher Pro’s privacy policy",
         "text": "This privacy policy (“Privacy Policy”) applies to the use of the website https://wisher.pro/ in its entirety, including all of our subpages, associated sites or pages (“Website”), and the Wisher Pro mobile app, which is accessible with your mobile phone (“App”) (collectively, “Wisher Pro”), are operated by Wisher Pro TOO, Satpayeva st., b. 85, 050046, Almaty, Kazakhstan (“we”, “us”, “our”). We are responsible for all information relating to an identified or identifiable natural and, where applicable, legal person (“Personal Data”) that we collect, process, and use during your use of Wisher Pro. This Privacy Policy outlines how we process your Personal Data both in connection with Wisher Pro and otherwise. The Website includes links to third-party websites, such as social networks. Clicking on those links or enabling those connections may allow the third party to collect or share data about you. We do not control these third-party websites, and we encourage you to read the privacy policy of those third-party websites."
     },
     {
